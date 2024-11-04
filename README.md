@@ -1,4 +1,7 @@
-# STSA - Capturing Spatio-Temporal Dependencies with Competitive Set Attention for Video Summarization  DOI: 10.5281/zenodo.14032949
+# STSA - Capturing Spatio-Temporal Dependencies with Competitive Set Attention for Video Summarization  
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14032949.svg)](https://doi.org/10.5281/zenodo.14032949)
+
 The Official Github Repository of "Capturing Spatio-Temporal Dependencies with Competitive Set Attention for Video Summarization".
 
 # Download the extracted datasets from the link below
