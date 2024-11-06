@@ -1,8 +1,9 @@
 # STSA - Capturing Spatio-Temporal Dependencies with Competitive Set Attention for Video Summarization  
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14032949.svg)](https://doi.org/10.5281/zenodo.14032949)
 
 The Official Github Repository of "Capturing Spatio-Temporal Dependencies with Competitive Set Attention for Video Summarization". 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14032949.svg)](https://doi.org/10.5281/zenodo.14032949)
+
 
 # Download the datasets from the link below
 
@@ -12,16 +13,26 @@ Create a datasets folder inside the ./STSA/datasets folder and save the download
 
 # Create STSA conda environment
 
-```conda create -n STSA```
+```
+conda create -n STSA
+```
 
 # Activate STSA environment
-```conda activate STSA```
+```
+conda activate STSA
+```
 
 # Install the packages provided in the requirement.txt
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 # To train the model
-```python3 train.py --exp_name 'ExperimentName' --dataset 'TVSum or SumMe' --batch_size #BATCH_SIZE --epochs #EPOCHS```
+```
+python3 train.py --exp_name 'ExperimentName' --dataset 'DatasetName(TVSum or SumMe)' --batch_size #BATCH_SIZE --epochs #EPOCHS
+```
+
+# Evaluation
 
 The evaluation is provided in the training file.
 
