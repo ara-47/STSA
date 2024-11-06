@@ -1,16 +1,18 @@
 # STSA - Capturing Spatio-Temporal Dependencies with Competitive Set Attention for Video Summarization  
 
 
-The Official Github Repository of "Capturing Spatio-Temporal Dependencies with Competitive Set Attention for Video Summarization". [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14032949.svg)](https://doi.org/10.5281/zenodo.14032949)
+The Official Github Repository of "Capturing Spatio-Temporal Dependencies with Competitive Set Attention for Video Summarization". 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14032949.svg)](https://doi.org/10.5281/zenodo.14032949)
 
 # Download the datasets from the link below
 
 https://drive.google.com/drive/folders/1KTpftiMchP0q-pdcJ4K7HaARJloOwQA6?usp=sharing
 
-Create a datasets folder inside of the ./STSA/datasets folder and saved the downloaded .h5 files of the datasets.
+Create a datasets folder inside the ./STSA/datasets folder and save the downloaded .h5 files of the datasets.
 
 # Create STSA conda environment
-'''conda create -n STSA'''
+
+```conda create -n STSA
 
 # Activate STSA environment
 '''conda activate STSA'''
