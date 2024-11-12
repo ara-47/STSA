@@ -192,7 +192,6 @@ torchviz
 | zipp                         | 3.1.0         |
 
 
+
 ## Acknowledgments
-
-- **[Bin SHENG]** - Provided insights and guidance on the project. Find more about his work on [https://scholar.google.com/citations?user=QlGJBvkAAAAJ&hl=en].
-
+We would like to express our sincere gratitude to Dr. Anil Singh Parihar (Professor, Delhi Technological University, New Delhi, INDIA) for invaluable insights, suggestions and constructive feedback. Furthermore, we would like to thank Dr. Chun-Rong Huang (Associate Professor, Shanghai Jiao Tong University, Shanghai, China) for his support in providing the relevant files.
