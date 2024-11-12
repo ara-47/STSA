@@ -9,6 +9,8 @@ The Official Github Repository of "Capturing Spatio-Temporal Dependencies with C
 
 https://drive.google.com/drive/folders/1KTpftiMchP0q-pdcJ4K7HaARJloOwQA6?usp=sharing
 
+Access will be provided based on access requests.
+
 Create a datasets folder inside the ./STSA/datasets folder and save the downloaded .h5 files of the datasets.
 
 # Create STSA conda environment
