@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/882984239.svg)](https://doi.org/10.5281/zenodo.14032948)
 
-- The Official Github Repository of "Capturing Spatio-Temporal Dependencies with Competitive Set Attention for Video Summarization". 
+The Official Github Repository of "Capturing Spatio-Temporal Dependencies with Competitive Set Attention for Video Summarization". 
 
 - This paper has been accepted in [The Visual Computer](https://doi.org/10.1007/s00371-025-03865-1).
 
@@ -39,9 +39,6 @@ python3 train.py --exp_name 'ExperimentName' --dataset 'DatasetName(TVSum or Sum
 
 - The evaluation is provided in the training file.
 
-### Send us feedback
-- If you have any queries or feedback, please contact us @(**kavinder@dtu.ac.in**).
-
 ### Citation
 ```
 @article{arafat2025capturing,
@@ -53,16 +50,12 @@ python3 train.py --exp_name 'ExperimentName' --dataset 'DatasetName(TVSum or Sum
 }
 ```
 
-### Requirements
-```
-torch                
-torchaudio           
-torchsummary 
-torchvision
-torchviz
- ```
+### [Requirements](https://github.com/ara-47/STSA/blob/main/requirements.txt)
 
 ### Acknowledgments
 ```
 We would like to express our sincere gratitude to Dr. Anil Singh Parihar (Professor, Delhi Technological University, New Delhi, INDIA) for invaluable insights, suggestions and constructive feedback. Furthermore, we would like to thank Dr. Chun-Rong Huang (Professor, National Yang Ming Chiao Tung University,  Hsinchu, Taiwan) for his support in providing the relevant files.
 ```
+
+### Send us feedback
+- If you have any queries or feedback, please contact us @(**kavinder@dtu.ac.in**).
