@@ -6,7 +6,7 @@ The Official Github Repository of "Capturing Spatio-Temporal Dependencies with C
 
 This paper has been accepted in [The Visual Computer](https://doi.org/10.1007/s00371-025-03865-1).
 
-# Download the datasets from the link below
+### Download the datasets from the link below
 
 https://drive.google.com/drive/folders/1KTpftiMchP0q-pdcJ4K7HaARJloOwQA6?usp=sharing
 
@@ -14,28 +14,28 @@ Access will be provided based on access requests.
 
 Create a datasets folder inside the ./STSA/datasets folder and save the downloaded .h5 files of the datasets.
 
-# Create STSA conda environment
+### Create STSA conda environment
 
 ```
 conda create -n STSA
 ```
 
-# Activate STSA environment
+### Activate STSA environment
 ```
 conda activate STSA
 ```
 
-# Install the packages provided in the requirement.txt
+### Install the packages provided in the requirement.txt
 ```
 pip install -r requirements.txt
 ```
 
-# To train the model
+### To train the model
 ```
 python3 train.py --exp_name 'ExperimentName' --dataset 'DatasetName(TVSum or SumMe)' --batch_size #BATCH_SIZE --epochs #EPOCHS
 ```
 
-# Evaluation
+### Evaluation
 
 The evaluation is provided in the training file.
 
@@ -53,7 +53,7 @@ The evaluation is provided in the training file.
 }
 ```
 
-# Requirements
+### Requirements
 The mandate requirement packages:
 ```
 torch                
@@ -206,7 +206,7 @@ torchviz
 | ytsphinx                     | 1.2.1.dev20200430 |
 | zipp                         | 3.1.0         |
 
-## Acknowledgments
+### Acknowledgments
 ```
 We would like to express our sincere gratitude to Dr. Anil Singh Parihar (Professor, Delhi Technological University, New Delhi, INDIA) for invaluable insights, suggestions and constructive feedback. Furthermore, we would like to thank Dr. Chun-Rong Huang (Professor, National Yang Ming Chiao Tung University,  Hsinchu, Taiwan) for his support in providing the relevant files.
 ```
