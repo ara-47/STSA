@@ -39,6 +39,20 @@ python3 train.py --exp_name 'ExperimentName' --dataset 'DatasetName(TVSum or Sum
 
 The evaluation is provided in the training file.
 
+### Send us feedback
+- If you have any queries or feedback, please contact us @(**kavinder@dtu.ac.in**).
+
+### Citation
+```
+@article{arafat2025capturing,
+  title={Capturing spatiotemporal dependencies with competitive set attention for video summarization},
+  author={Arafat, Md Hasnat Hosen and Singh, Kavinder},
+  journal={The Visual Computer},
+  year={2025},
+  publisher={Springer}
+}
+```
+
 # Requirements
 The mandate requirement packages:
 ```
@@ -48,8 +62,6 @@ torchsummary
 torchvision
 torchviz
  ```
-
-
 
 | Package                      | Version       |
 |------------------------------|---------------|
@@ -193,21 +205,6 @@ torchviz
 | wheel                        | 0.43.0        |
 | ytsphinx                     | 1.2.1.dev20200430 |
 | zipp                         | 3.1.0         |
-
-### Send us feedback
-- If you have any queries or feedback, please contact us @(**kavinder@dtu.ac.in**).
-
-Citation
-```
-@article{arafat2025capturing,
-  title={Capturing spatiotemporal dependencies with competitive set attention for video summarization},
-  author={Arafat, Md Hasnat Hosen and Singh, Kavinder},
-  journal={The Visual Computer},
-  year={2025},
-  publisher={Springer}
-}
-```
-
 
 ## Acknowledgments
 ```
