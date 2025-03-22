@@ -6,13 +6,13 @@ The Official Github Repository of "Capturing Spatio-Temporal Dependencies with C
 
 This paper has been accepted in [The Visual Computer](https://doi.org/10.1007/s00371-025-03865-1).
 
-### Download the datasets from the link below
+### Download the datasets
 
-https://drive.google.com/drive/folders/1KTpftiMchP0q-pdcJ4K7HaARJloOwQA6?usp=sharing
+- [Dataset](https://drive.google.com/drive/folders/1KTpftiMchP0q-pdcJ4K7HaARJloOwQA6?usp=sharing)
 
-Access will be provided based on access requests.
+- Access will be provided based on access requests.
 
-Create a datasets folder inside the ./STSA/datasets folder and save the downloaded .h5 files of the datasets.
+- Create a datasets folder inside the ./STSA/datasets folder and save the downloaded .h5 files of the datasets.
 
 ### Create STSA conda environment
 
@@ -37,7 +37,7 @@ python3 train.py --exp_name 'ExperimentName' --dataset 'DatasetName(TVSum or Sum
 
 ### Evaluation
 
-The evaluation is provided in the training file.
+- The evaluation is provided in the training file.
 
 ### Send us feedback
 - If you have any queries or feedback, please contact us @(**kavinder@dtu.ac.in**).
