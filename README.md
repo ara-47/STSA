@@ -194,7 +194,22 @@ torchviz
 | ytsphinx                     | 1.2.1.dev20200430 |
 | zipp                         | 3.1.0         |
 
+### Send us feedback
+- If you have any queries or feedback, please contact us @(**kavinder@dtu.ac.in**).
+
+Citation
+```
+@article{arafat2025capturing,
+  title={Capturing spatiotemporal dependencies with competitive set attention for video summarization},
+  author={Arafat, Md Hasnat Hosen and Singh, Kavinder},
+  journal={The Visual Computer},
+  year={2025},
+  publisher={Springer}
+}
+```
 
 
 ## Acknowledgments
- We would like to express our sincere gratitude to Dr. Anil Singh Parihar (Professor, Delhi Technological University, New Delhi, INDIA) for invaluable insights, suggestions and constructive feedback. Furthermore, we would like to thank Dr. Chun-Rong Huang (Professor, National Yang Ming Chiao Tung University,  Hsinchu, Taiwan) for his support in providing the relevant files.
+```
+We would like to express our sincere gratitude to Dr. Anil Singh Parihar (Professor, Delhi Technological University, New Delhi, INDIA) for invaluable insights, suggestions and constructive feedback. Furthermore, we would like to thank Dr. Chun-Rong Huang (Professor, National Yang Ming Chiao Tung University,  Hsinchu, Taiwan) for his support in providing the relevant files.
+```
